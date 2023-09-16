@@ -1,6 +1,6 @@
 <?php
 
-require 'car_class.php';
+include 'car_class.php';
 
 $myCar = new Car();
 
