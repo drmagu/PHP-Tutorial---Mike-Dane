@@ -7,7 +7,7 @@
     <body>
 
         <?php
-            $site_owner = "MadJac";
+            $site_owner = "DrMagu";
             echo strlen($site_owner);
             echo $site_owner[0];
             echo $site_owner[5];
